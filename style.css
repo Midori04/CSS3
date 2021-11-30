@@ -1,0 +1,28 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    /* border: 1px solid gray; */
+
+}
+.trClass {
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+.th1 {
+    height: 50px;
+    background-color:seagreen;
+    color: white;
+}
+
+tr:hover {
+    border-left: 2px solid black;
+}
+
+img {
+    width: 110px;
+    padding: 20px;
+}
+span {
+    color: lightslategray;
+}
